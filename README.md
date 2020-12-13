@@ -11,7 +11,8 @@ Building this app with intention of learning React and Firebase better .
 
 |                                              Tinder Right Swipe                                               |                                               Tinder Left Swipe                                               |
 |:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-| ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_nope.png?raw=true) | ![](https://github.com/valerisvso/tinder-clone/blob/main/public/swipe2.jpg) |
+| ![](https://github.com/iamabhishek229313/tinder_clone/blob/master/screenshots/tinder_clone_nope.png?raw=true) | ![]
+(https://github.com/valerisvso/tinder-clone/blob/main/public/swipe2.jpg?raw=true) |
 
  Matchings     |
 :-------------------------:|
