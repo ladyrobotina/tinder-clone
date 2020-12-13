@@ -1,4 +1,4 @@
-# 💗 Tinder_Clone
+# 💗 Tinder-Clone
 
 Building this app with intention of learning React and Firebase better .
 
