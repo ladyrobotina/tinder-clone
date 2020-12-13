@@ -12,7 +12,7 @@ Building this app with intention of learning React and Firebase better .
 Built entirely:
 - React.js
 - Firebase
-- Materila UI
+- Material UI
 ```
 
 ## ⚒ Deploy 
