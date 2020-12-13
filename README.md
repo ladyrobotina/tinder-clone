@@ -4,7 +4,7 @@ Building this app with intention of learning React and Firebase better .
 
 ## 📱 Screenshot
 
-![Tinder Clone](https://github.com/valerisvso/tinder-clone/blob/main/public/localhost_3000_chat_%2520Elon%2520Musk(iPhone%206_7_8)%20(2).png width="350")
+![Tinder Clone](https://github.com/valerisvso/tinder-clone/blob/main/public/localhost_3000_chat_%2520Elon%2520Musk(iPhone%206_7_8)%20(2).png)
 
 
 ## 📚 Technical Details
